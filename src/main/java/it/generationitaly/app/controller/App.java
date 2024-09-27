@@ -8,4 +8,7 @@ public class App {
 
 	}
 
+	private static void metodoProva() {
+		System.out.println("Prova 1");
+	}
 }
